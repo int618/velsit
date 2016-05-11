@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Powerun Vehicle Environmental Protection Label o
+ f Inspection Self-Service qualified Issue Terminal Application
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: jiangjq
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Powerun Software, Inc.
+
